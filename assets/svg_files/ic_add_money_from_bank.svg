@@ -1,0 +1,11 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="7.9375" y="14.875" width="23.125" height="13.875" fill="#C6E2FC"/>
+<rect x="4.66882" y="29.2344" width="29.9636" height="3.36326" rx="1.68163" fill="white" stroke="#2E3192" stroke-width="1.5"/>
+<line x1="7.89355" y1="29.2344" x2="7.89355" y2="14.5583" stroke="#2E3192" stroke-width="1.5"/>
+<line x1="15.843" y1="29.2344" x2="15.843" y2="14.5583" stroke="#2E3192" stroke-width="1.5"/>
+<line x1="23.7932" y1="29.2344" x2="23.7932" y2="14.5583" stroke="#2E3192" stroke-width="1.5"/>
+<line x1="31.7427" y1="29.2344" x2="31.7427" y2="14.5583" stroke="#2E3192" stroke-width="1.5"/>
+<path d="M19.38 4.63026C19.5468 4.53076 19.7548 4.53076 19.9217 4.63026L34.1542 13.1168C34.6155 13.3919 34.4205 14.0999 33.8833 14.0999H5.41833C4.88118 14.0999 4.68612 13.3919 5.14747 13.1168L19.38 4.63026Z" fill="#94D5FA" stroke="#2E3192" stroke-width="1.5" stroke-linejoin="round"/>
+<circle cx="29.9062" cy="10.25" r="7.59375" fill="#00B445" stroke="white"/>
+<path d="M26.4375 10.25L33.375 10.25M33.375 10.25L31.0625 7.9375M33.375 10.25L31.0625 12.5625" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

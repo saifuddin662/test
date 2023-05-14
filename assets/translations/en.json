@@ -1,0 +1,432 @@
+{
+
+  "____comment1____" : "____get_started_screen____",
+  "welcome_to_firstCash": "Welcome to FirstCash!",
+  "get_started": "Get Started",
+  "get_started_text" : "Pay your bill, fees, send money & top up easily through our app",
+
+
+  "____comment2____" : "____register_input_screen____",
+  "reg_or_SignIn": "Registration/Sign in",
+  "mobile_number" : "Mobile Number",
+  "enter_mobile_number" : "Enter Mobile Number",
+  "operator" : "Operator",
+  "select_operator": "Select Mobile Operator",
+  "next" : "NEXT",
+  "error" : "ERROR",
+
+
+  "____comment3____" : "____reg_otp_input_screen____",
+  "verify_otp" : "Verify OTP",
+  "enter_otp" : "Enter OTP",
+  "otp_title" : "Enter the code you received via SMS (You will receive an SMS at your number)",
+  "otp" : "OTP",
+  "remaining_time" : "Remaining Time ",
+  "resend_otp" : "Resend OTP",
+  "confirm": "CONFIRM",
+
+
+  "____comment4____" : "____terms_condition_screen___",
+  "terms_Of_use" : "Terms of Use",
+
+
+  "____comment5____" : "____confirm_pin_screen___",
+  "confirm_pin" : "Confirm PIN",
+  "enter_pin" : "Enter PIN",
+  "enter_pin_msg" : "Enter PIN of your FirstCash account",
+  "pin" : "PIN",
+
+
+  "____comment6____" : "____login_screen___",
+  "wallet_number": "Wallet Number",
+  "login" : "Login",
+  "firstCash" : "FirstCash",
+
+
+  "____comment7____" : "____custom_drawer_widget___",
+  "wallet" : "(Wallet)",
+  "my_qr_code" : "My QR Code",
+  "change_pin" : "Change PIN",
+  "about_firstCash" :  "About FirstCash",
+  "sign_out" : "Sign out",
+
+
+  "____comment8____" : "____change_pin_screen___",
+  "change_pin_success_msg" : "PIN Changed Successfully",
+  "change_pin_enter_old_pin" : "Enter Old PIN",
+  "enter_new_pin" : "Enter New PIN",
+  "confirm_new_pin" : "Confirm New PIN",
+  "change_pin_match_message" : "New pin can't be same as old pin",
+  "required_field" : "This field is required",
+  "enter_4Digit" : "Enter 4 digit pin",
+
+
+  "____comment9____" : "____ekyc_home_screen____",
+  "ekyc" : "EKYC",
+  "start_ekyc" : "Take photos of your NID Card",
+  "follow_these_steps": "Follow these 3 steps to submit your information",
+  "take_picture_of_nid": "Take a picture of your NID",
+  "submit_info" : "Submit necessary information",
+  "take_picture" : "Take your picture",
+  "_1" :"1",
+  "_2" : "2",
+  "_3" : "3",
+
+
+  "____comment10____" : "____additional_info_screen____",
+  "gender_required" : "Gender is required",
+  "blood_grp_required" : "Blood Group is required",
+  "profession_required" : "Profession is require",
+  "source_of_income_required" : "Source of Income is required",
+  "monthly_income_required" : "Monthly Income is required",
+  "additional_info" : "Additional Info",
+  "give_all_inputs" : "Please give all inputs",
+
+
+  "____comment11____" : "____preview_face___",
+  "retake" : "RETAKE",
+
+
+  "____comment12____" : "____nid_details___",
+  "nid_details" : "NID Details",
+  "your_details" : "Your Details",
+  "nid_details_sub": "Give your correct information",
+  "name_bangla_nid" : "Name",
+  "father_spouse_s_name" : "Father/Spouse's name",
+  "mother_s_name" : "Mother's name",
+  "dob" : "Date of Birth",
+  "nid_num" : "NID No",
+  "permanent_address" : "Permanent Address",
+  "enter_permanent_address" : "Enter Permanent Address",
+  "present_address" : "Present Address",
+  "enter_present_address" : "Enter Present Address",
+  "post_office_permanent" : "Post Office (Permanent)",
+  "post_code_permanent" : "Post Code (Permanent)",
+  "post_office_present" : "Post Office (Present)",
+  "post_code_present" : "Post Code (Present)",
+  "nominee_name" : "Nominee Name",
+  "enter_nominee_name" : "Enter nominee's name",
+  "nominee_nid_no" : "Nominee's NID No",
+  "enter_nominee_nid_no" : "Enter nominee's NID no",
+  "nominee_dob" : "Nominee's Date of Birth",
+  "date_pattern" : "dd/mm/yyyy",
+  "nominee_mobile_num" : "Nominee's mobile no",
+  "relation_with_nominee" : "Relation with nominee",
+  "percentage" : "Percentage",
+  "select_division_permanent": "Select Division (Permanent)",
+  "submit_division_permanent" : "Please select division for permanent address",
+  "select_district_permanent" : "Select District (Permanent)",
+  "submit_district_permanent" : "Please select district for permanent address",
+  "select_thana_permanent" : "Select Thana (Permanent)",
+  "submit_thana_permanent" : "Please select thana for permanent address",
+
+  "select_division_present": "Select Division (Present)",
+  "submit_division_present" : "Please select division for present address",
+  "select_district_present" : "Select District (Present)",
+  "submit_district_present" : "Please select district for present address",
+  "select_thana_present" : "Select Thana (Present)",
+  "submit_thana_present" : "Please select thana for present address",
+
+
+  "____comment13____" : "____nid_back_screen___",
+  "top" :   "TOP",
+  "bottom" : "BOTTOM",
+
+
+  "____comment14____" : "____preview_nid_back___",
+  "nid_back" : "NID Back",
+
+
+  "____comment15____" : "____preview_nid_front___",
+  "nid_front" : "NID Front",
+  "nid_back_pic_button" : "NID BACK",
+
+
+  "____comment16____" : "____partial_info_screen___",
+  "user_details" : "User Details",
+  "eg_father_name" : "Enter father's/spouse's name",
+  "eg_mother_name" : "Enter mother's name",
+
+
+  "____comment17____" : "____ekyc_pending_screen___",
+  "back_to_startPage" : "GO BACK TO START PAGE",
+  "verification_pending" : "Your EKYC Verification is Pending",
+  "your_verification_pending_msg" : "We will check your documents & get back to you shortly.",
+
+
+  "____comment18____" : "____nid_validation_mixin___",
+  "enter_valid_address" : "Enter Valid Address",
+  "enter_valid_dob" : "Enter Valid DOB",
+  "enter_valid_nid" : "Enter Valid NID",
+  "enter_valid_post_code" : "Enter Valid Post Code",
+
+
+  "____comment19____" : "____home_screen___",
+  "main_services" : "Main Services",
+  "bill_payments" : "Bill Payments",
+
+
+  "____comment20____" : "____transaction_list_screen___",
+  "transaction_list" : "Transaction List",
+  "txn_copied" : "Txn ID copied to clipboard",
+  "empty_txn_list" : "Empty Txn List",
+  "no_transaction_found" : "No Transaction Found",
+
+
+  "____comment21____" : "____dashboard_screen___",
+  "home" : "Home",
+  "transaction" : "Transaction",
+  "feature_currently_inactive" : "Feature Currently Inactive",
+
+
+  "____comment22____" : "____mobile_recharge_confirm_screen___",
+  "mobile_recharge_success_msg" : "Mobile Recharge Successful",
+  "mobile_recharge" : "Mobile Recharge",
+  "amazing_offers_msg" : "Some amazing offers are coming soon",
+
+
+  "____comment23____" : "____mobile_recharge_pin_screen___",
+  "enter_correct_pin" : "Enter Pin Correctly",
+
+
+  "____comment24____" : "____mobile_recharge_screen___",
+  "search" : "Search",
+  "invalid_number" : "Invalid number",
+  "select_sim_type" : "Select Connection Type",
+  "see_all_numbers" : "See all numbers",
+
+
+  "____comment25____" : "____recharge_amount_screen___",
+  "enter_amount" : "Enter Amount",
+  "min_amount_msg_twenty" : "Minimum amount is 20 Tk",
+  "insufficient_fund" : "Insufficient Fund",
+  "amount" : "Amount",
+  "charge" : "Charge",
+  "total" : "Total",
+  "new_balance" :"New Balance",
+  "available_balance" : "Available balance: ",
+
+
+  "____comment26____" : "____send_money_confirm_screen___",
+  "send_money_success_msg" : "Send Money Successful",
+  "send_money" : "Send Money",
+  "you_can_send_money" : "You can send money free up to 25,000 Tk.",
+
+
+  "____comment27____" : "____send_money_enter_amount_screen___",
+  "select_payment" : "Select your payment",
+  "min_amount_msg" : "Minimum amount is ৳ ",
+  "max_amount_msg" : "Maximum amount is ৳ ",
+  "transaction_amount" : "Transaction Amount",
+  "total_amount" : "Total Amount",
+  "sendMONEY" : "SEND_MONEY",
+
+
+  "____comment28____" : "____send_money_number_screen___",
+  "enter_valid_wallet_num" : "Please enter valid wallet number",
+  "enter_name_or_number" : "Enter name or number",
+
+
+  "____comment29____" : "____custom_confirm_transaction_widget__",
+  "transaction_details": "Transaction Details",
+
+
+  "____comment30____" : "____custom_common_success_widget__",
+  "transaction_successful": "Transaction Successful",
+  "back_to_home": "Back To Home",
+  "download_statement" : "Download Statement",
+
+
+  "____comment31____" : "____merchant_pay_confirm_screen__",
+  "merchant_payment_success_msg" : "Merchant Payment Successful",
+  "merchant_payment" : "Merchant Payment",
+  "you_can_pay_and_win" : "You can pay and win while using FirstCash",
+
+
+  "____comment32____" : "____merchant_pay_number_screen__",
+  "enter_merchant_wallet_num" : "Enter merchant wallet number",
+  "invalid_account_type" : "Invalid Account Type",
+  "enter_merchant_number" : "Please enter merchant number",
+
+
+  "____comment33____" : "____cash_out_confirm_screen__",
+  "cash_out_success_msg" : "Cash Out Successful",
+  "lowest_cash_out_charge_msg" : "Lowest cash out charge in town",
+
+
+  "____comment34____" : "____cash_out_enter_amount_screen__",
+  "cash_out" : "Cash Out",
+  "firstCash_balance:" : "FirstCash Balance: ",
+
+
+  "____comment35____" : "____cash_out_number_screen___",
+  "enter_agent_wallet_num" : "Enter an agent wallet number",
+  "enter_agent_num" : "Please enter agent number",
+
+
+  "____comment36____" : "____cash_out_success_screen___",
+  "cash_out_money" : "Cash Out Money",
+
+
+  "____comment37____" : "____education_fees_confirm_screen___",
+  "education_fees_success_msg" : "Education Fee Successful",
+  "education_fees" : "Education Fee",
+
+
+  "____comment38____" : "____education_fees_status_screen___",
+  "done" : "Done",
+  "ins_code": "Institution Code",
+  "ins_name": "Institution Name",
+  "ins_wallet": "Institution Wallet",
+  "student_name": "Student Name",
+  "reg_id": "Registration ID",
+  "total_due": "Total Due amount",
+  "current_balance": "Current Balance",
+
+
+  "____comment39____" : "____fee_list_screen___",
+  "student_reg_id" : "Student Registration ID",
+  "_educationFEES" : "EDUCATION_FEE",
+  "select_amount" : "Select amount",
+
+
+  "____comment40____" : "____institute_list_screen___",
+  "institution_list" : "Institution List",
+
+
+  "____comment41____" : "____registration_info_screen___",
+  "bill_fetch_success_msg" : "Bill fetch Successful",
+  "input_reg_number" : "Please input registration number",
+  "enter_reg_id" : "Enter Registration Id",
+  "enter_ref_id" : "Enter Reference Id",
+  "_self" : "Self",
+  "_other" : "Other",
+  "input_mobile_number" : "Please enter mobile number",
+
+
+  "____comment42____" : "____custom_dashboard_app_bar_widget___",
+  "check_balance" : "Check Balance",
+
+
+  "____comment43____" : "____custom_success_dialog_widget___",
+  "successful" : "SUCCESSFUL",
+  "transaction_id" : "Transaction ID",
+  "reference" : "Reference",
+  "processing" : "Processing...",
+
+
+  "____comment44____" : "____additional_info_screen___",
+  "gender" : "Gender",
+  "blood_group" : "Blood Group",
+  "occupation" : "Occupation",
+  "source_of_income" : "Source Of Income",
+  "approx_monthly_income" : "Approximate Monthly Income",
+
+
+  "____comment45____" : "____network_interceptor___",
+  "no_internet" : "Error: No Internet",
+
+
+  "____comment46____" : "____network_interceptor___",
+  "session_timeout" : "Your session expired due to inactivity. Please log in again. Thank you!",
+  "authorization_failed" : "Your wallet has been registered with another device.",
+  "unknown_error" : "Network problem. Please try again later.",
+
+
+  "____comment47____" : "____add_money_screen___",
+  "add_money" : "Add Money",
+  "add_money_source" : "Add Money Source",
+
+
+  "____comment48____" : "____add_money_card_screen___",
+  "card_source" : "Card Source",
+
+
+  "____comment49____" : "____forceUpdate___",
+  "force_update_title": "New Update Available",
+  "force_update_message": "A new version is currently available. Please update the application.",
+  "disagree": "Disagree",
+  "update_now": "Update Now!",
+
+
+  "____comment50____" : "____qr_code_scanner_screen___",
+  "scan_qr" : "Scan QR",
+  "scan_qr_code" : "Scan QR Code",
+  "camera_permission_required" : "Camera Permission Required",
+
+
+  "____comment51____" : "____customer_reg_by_agent_screen___",
+  "customer_reg" : "Customer Registration",
+  "enter_nid_number" : "Enter NID number",
+  "eg_dob" : "e.g. YYYY/MM/DD",
+  "submit" : "Submit",
+  "enter_your_full_name" :  "Enter your full name",
+  "set_up_account" : "Set up your account",
+  "enter_valid_mobile_no" : "Enter Valid Mobile Number",
+  "input" : "Input",
+  "enter_valid" : "Enter Valid",
+
+  "____comment52____" : "____agent_cash_in____",
+  "cash_in" : "Cash In",
+  "cash_in_money": "Cash In Money",
+  "enter_wallet_number": "Enter wallet number",
+  "enter_customer_wallet_number": "Enter customer wallet number",
+
+
+  "____comment53____" : "____du_info_screen___",
+  "utility_bill" : "Utility Bill",
+
+
+  "____comment54____" : "____du_detail_screen___",
+  "utility_detail" : "Utility Detail",
+  "enter_required_info" : "Please Enter Required Information",
+
+
+  "____comment55____" : "____du_pin_screen___",
+  "utility_payment_successful" : "Utility Payment Successful",
+
+
+  "____comment56____" : "____to_up_agent____",
+  "top_up_agent" : "Top Up Agent",
+  "top_up_agent_select" : "Select Agent",
+  "no_agent_found" : "No Agent Found",
+  "dsr_limit" : "DSR Limit",
+  "top_up_limit" : "Top Up Limit",
+  "cash_out_limit" : "Cash Out Limit",
+  "daily_top_up" : "Daily Top Up",
+  "daily_cash_out" : "Daily Cash Out",
+
+
+  "____comment57____" : "____request_money_screen___",
+  "new_request" : "New Request",
+  "transactions" : "Transactions",
+  "your_request" : "Your Request",
+  "request_to_you" : "Request to you",
+  "no_request_found" : "No request found",
+  "reject" : "Reject",
+  "decline_request_msg" : "Are you sure you want to decline the request?",
+  "yes" : "Yes",
+  "no" : "No",
+  "approve" : "Approve",
+  "currently_unavailable" : "Currently Unavailable!",
+
+
+  "____comment58____" : "____request_money_pin_screen___",
+  "request_successful" : "Request Successful",
+  "request_money" : "Request Money",
+
+
+  "____comment59____" : "____request_money_enter_amount_screen___",
+  "requested_amount" : "Requested Amount",
+
+
+  "____comment60____" : "____custom_decline_request_success_widget___",
+  "decline_successful_msg" : "The request has been declined",
+
+  "____comment61____" : "____custom_common_error_widget___",
+  "cancel" : "Cancel",
+
+  "____comment62____" : "____location permission___",
+  "location_permission" : "Location Permission",
+  "must_enable_location_service" : "You must enable location permission to access this"
+}

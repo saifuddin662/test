@@ -1,0 +1,4 @@
+enum CamDirection {
+  front,
+  back,
+}

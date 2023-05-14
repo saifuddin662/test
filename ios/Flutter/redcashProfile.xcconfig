@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_redcash.dart
+ASSET_PREFIX=redcash
+BUNDLE_NAME=RedCash - DFS
+BUNDLE_DISPLAY_NAME=RedCash - DFS

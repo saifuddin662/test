@@ -1,0 +1,434 @@
+{
+
+  "____comment1____" : "____get_started_screen____",
+  "welcome_to_firstCash": "ফার্স্টক্যাশে স্বাগতম!",
+  "get_started": "শুরু করুন",
+  "get_started_text" : "আমাদের অ্যাপের মাধ্যমে আপনার বিল, ফি, টাকা পাঠান এবং সহজেই টপ আপ করুন",
+
+
+  "____comment2____" : "____register_input_screen____",
+  "reg_or_SignIn": "রেজিস্ট্রেশন/সাইন-ইন",
+  "mobile_number" : "মোবাইল নাম্বার",
+  "enter_mobile_number" : "মোবাইল নাম্বার লিখুন",
+  "operator" : "অপারেটর",
+  "select_operator": "মোবাইল অপারেটর নির্বাচন করুন",
+  "next" : "পরবর্তী ধাপ",
+  "error" : "ব্যর্থ হয়েছে",
+
+
+  "____comment3____" : "____reg_otp_input_screen____",
+  "verify_otp" : "OTP ভেরিফাই করুন",
+  "enter_otp" : "ও.টি.পি দিন ",
+  "otp_title" : "আপনার নাম্বার এ পাঠানো কোডটি দিন (আপনি এই নাম্বার এ এস এম এস পাবেন)",
+  "otp" : "ও.টি.পি",
+  "remaining_time" : "অবশিষ্ট সময় ",
+  "resend_otp" : "পুনরায় ও.টি.পি পাঠান",
+  "confirm": "নিশ্চিত করুন",
+
+
+  "____comment4____" : "____terms_condition_screen___",
+  "terms_Of_use" : "ব্যবহারের শর্তাবলী",
+
+
+  "____comment5____" : "____confirm_pin_screen___",
+  "confirm_pin" : "পিন নিশ্চিত করুন",
+  "enter_pin" : "পিন দিন",
+  "enter_pin_msg" : "আপনার ফার্স্টক্যাশ অ্যাকাউন্টের পিন লিখুন",
+  "pin" : " পিন ",
+
+
+  "____comment6____" : "____login_screen___",
+  "wallet_number": "ওয়ালেট নাম্বার",
+  "login" : "লগইন",
+  "firstCash" : "ফার্স্টক্যাশ",
+
+
+  "____comment7____" : "____custom_drawer_widget___",
+  "wallet" :"(ওয়ালেট)",
+  "my_qr_code" : "আমার QR কোড",
+  "change_pin" : "পিন পরিবর্তন",
+  "about_firstCash" :  "ফার্স্টক্যাশ সম্পর্কে",
+  "sign_out" : "সাইন আউট",
+
+
+  "____comment8____" : "____change_pin_screen___",
+  "change_pin_success_msg" : "নতুন পিন সেট হয়েছে!",
+  "change_pin_enter_old_pin" : "পুরানো পিন প্রদান করুন",
+  "enter_new_pin" : "নতুন পিন প্রদান করুন",
+  "confirm_new_pin" : "নতুন পিন নিশ্চিত করুন",
+  "change_pin_match_message" : "নতুন পিনটি যেন পুরাতন পিন না হয়",
+  "required_field" : "ঘরটি অবশ্যই পূরণ করতে হবে",
+  "enter_4Digit" : "৪ ডিজিটের পিন দিন",
+
+
+  "____comment9____" : "____ekyc_home_screen____",
+  "ekyc" : "ই-কেওয়াইসি",
+  "start_ekyc" : "আপনার জাতীয় পরিচয়পত্রের ছবি তুলুন",
+  "follow_these_steps": "আপনার তথ্য জমা দিতে এই ৩টি ধাপ অনুসরণ করুন",
+  "take_picture_of_nid": "জাতীয় পরিচয়পত্রের ছবি তুলুন",
+  "submit_info" : "প্রয়োজনীয় তথ্য জমা দিন",
+  "take_picture" : "আপনার একটি ছবি তুলুন",
+  "_1" :"১",
+  "_2" : "২",
+  "_3" : "৩",
+
+
+  "____comment10____" : "____additional_info_screen____",
+  "gender_required" : "লিঙ্গ নির্বাচন করা আবশ্যক",
+  "blood_grp_required" : "রক্তের গ্রুপ নির্বাচন করা আবশ্যক",
+  "profession_required" : "পেশা নির্বাচন করা আবশ্যক",
+  "source_of_income_required" : "আয়ের উৎস নির্বাচন করা আবশ্যক",
+  "monthly_income_required" : "আনুমানিক মাসিক আয় নির্বাচন করা আবশ্যক",
+  "additional_info" : "অতিরিক্ত তথ্য",
+  "give_all_inputs" : "অনুগ্রহ করে সব তথ্য দিন",
+
+
+  "____comment11____" : "____preview_face___",
+  "retake" : "পুনরায় গ্রহণ",
+
+
+  "____comment12____" : "____nid_details___",
+  "nid_details" : "এনআইডি বিস্তারিত",
+  "your_details" : "আপনার বিস্তারিত",
+  "nid_details_sub": "আপনার সঠিক তথ্য নিশ্চিত করুন।",
+  "name_bangla_nid" : "নাম",
+  "father_spouse_s_name" : "পিতা/স্বামীর নাম",
+  "mother_s_name" : "মাতার নাম",
+  "dob" : "জন্ম তারিখ",
+  "nid_num" : "NID নাম্বার",
+  "permanent_address" : "স্থায়ী ঠিকানা",
+  "enter_permanent_address" : "স্থায়ী ঠিকানা লিখুন",
+  "present_address" : "বর্তমান ঠিকানা",
+  "enter_present_address" : "বর্তমান ঠিকানা লিখুন",
+  "post_office_permanent" : "পোষ্ট অফিস (স্থায়ী)",
+  "post_code_permanent" : "পোস্ট কোড (স্থায়ী)",
+  "post_office_present" : "পোষ্ট অফিস (বর্তমান)",
+  "post_code_present" : "পোস্ট কোড (বর্তমান)",
+  "nominee_name" : "নমিনির নাম",
+  "enter_nominee_name" : "নমিনির নাম লিখুন",
+  "nominee_nid_no" : "নমিনির NID নাম্বার",
+  "enter_nominee_nid_no" : "নমিনির NID নাম্বার লিখুন",
+  "nominee_dob" : "নমিনির জন্ম তারিখ",
+  "date_pattern" : "দিন/মাস/বছর",
+  "nominee_mobile_num" : "নমিনির মোবাইল নাম্বার",
+  "relation_with_nominee" : "নমিনির সাথে সম্পর্ক",
+  "percentage" : "নমিনির শতকরা হার",
+  "select_division_permanent": "বিভাগ বাছাই করুন (স্থায়ী)",
+  "submit_division_permanent" : "বিভাগ নির্বাচন করুন স্থায়ী ঠিকানার জন্য",
+  "select_district_permanent" : "জেলা বাছাই করুন (স্থায়ী)",
+  "submit_district_permanent" : "জেলা নির্বাচন করুন স্থায়ী ঠিকানার জন্য",
+  "select_thana_permanent" : "থানা বাছাই করুন (স্থায়ী)",
+  "submit_thana_permanent" : "থানা নির্বাচন করুন স্থায়ী ঠিকানার জন্য",
+
+  "select_division_present": "বিভাগ বাছাই করুন (বর্তমান)",
+  "submit_division_present" : "বিভাগ নির্বাচন করুন বর্তমান ঠিকানার জন্য",
+  "select_district_present" : "জেলা বাছাই করুন (বর্তমান)",
+  "submit_district_present" : "জেলা নির্বাচন করুন বর্তমান ঠিকানার জন্য",
+  "select_thana_present" : "থানা বাছাই করুন (বর্তমান)",
+  "submit_thana_present" : "থানা নির্বাচন করুন বর্তমান ঠিকানার জন্য",
+
+
+  "____comment13____" : "____nid_back_screen___",
+  "top" :   "উপর",
+  "bottom" : "নিচ",
+
+
+  "____comment14____" : "____preview_nid_back___",
+  "nid_back" : "জাতীয় পরিচয়পত্রের পিছন পার্শ্ব",
+
+
+  "____comment15____" : "____preview_nid_front___",
+  "nid_front" : "জাতীয় পরিচয়পত্রের সামনের পার্শ্ব",
+  "nid_back_pic_button" : "জাতীয় পরিচয়পত্রের পিছন পার্শ্বের ছবি",
+
+
+  "____comment16____" : "____partial_info_screen___",
+  "user_details" : "ব্যবহারকারীর বিস্তারিত",
+  "eg_father_name" : "পিতা/স্বামীর নাম লিখুন",
+  "eg_mother_name" : "মায়ের নাম লিখুন",
+
+
+  "____comment17____" : "____ekyc_pending_screen___",
+  "back_to_startPage" : "শুরু পেজে ফিরে যান",
+  "verification_pending" : "তথ্য যাচাইকরণ চলছে",
+  "your_verification_pending_msg" : "আপনার প্রদত্ত তথ্যাদি যাচাই করা পর্যন্ত অপেক্ষা করুন। তথ্য যাচাই সম্পন্ন হলে আপনাকে জানানো হবে।",
+
+
+  "____comment18____" : "____nid_validation_mixin___",
+  "enter_valid_address" : "সঠিক ঠিকানা লিখুন",
+  "enter_valid_dob" : "সঠিক জন্ম তারিখ দিন",
+  "enter_valid_nid" : "সঠিক জাতীয় পরিচয়পত্রের নাম্বার দিন",
+  "enter_valid_post_code" : "সঠিক পোস্ট কোড দিন",
+
+
+  "____comment19____" : "____home_screen___",
+  "main_services" : "প্রধান সেবা",
+  "bill_payments" : "বিল পেমেন্টস",
+
+
+  "____comment20____" : "____transaction_list_screen___",
+  "transaction_list" : "লেনদেনের তালিকা",
+  "txn_copied" : "লেনদেনের আইডি কপি করা হয়েছে!",
+  "empty_txn_list" : "খালি Txn তালিকা",
+  "no_transaction_found" : "কোনো লেনদেন পাওয়া যায়নি",
+
+
+  "____comment21____" : "____dashboard_screen___",
+  "home" : "হোম",
+  "transaction" : "লেনদেন",
+  "feature_currently_inactive" : "ফিচারটি বর্তমানে সক্রিয় নেই",
+
+
+  "____comment22____" : "____mobile_recharge_confirm_screen___",
+  "mobile_recharge_success_msg" : "মোবাইল রিচার্জ সম্পন্ন হয়েছে",
+  "mobile_recharge" : "মোবাইল রিচার্জ",
+  "amazing_offers_msg" : "শীঘ্রই কিছু আশ্চর্যজনক অফার আসছে",
+
+
+  "____comment23____" : "____mobile_recharge_pin_screen___",
+  "enter_correct_pin" : "সঠিক ভাবে পিন দিন",
+
+
+  "____comment24____" : "____mobile_recharge_screen___",
+  "search" : "অনুসন্ধান",
+  "invalid_number" : "ভুল নাম্বার",
+  "select_sim_type" : "সিম টাইপ নির্বাচন করুন",
+  "see_all_numbers" : "সব নাম্বার দেখুন",
+
+
+  "____comment25____" : "____recharge_amount_screen___",
+  "enter_amount" : "পরিমান লিখুন",
+  "min_amount_msg_twenty" : "সর্বনিম্ন পরিমাণ ২০ টাকা",
+  "insufficient_fund" : "পর্যাপ্ত ব্যালেন্স নেই",
+  "amount" : "পরিমান",
+  "charge" : "চার্জ",
+  "total" : "সর্বমোট",
+  "new_balance" :"নতুন ব্যালেন্স",
+  "available_balance" : "পর্যাপ্ত টাকা: ",
+
+
+  "____comment26____" : "____send_money_confirm_screen___",
+  "send_money_success_msg" : " টাকা প্রেরণ সম্পন্ন হয়েছে",
+  "send_money" : "সেন্ড মানি",
+  "you_can_send_money" : "আপনি ২৫,০০০ টাকা পর্যন্ত বিনামূল্যে টাকা পাঠাতে পারেন।",
+
+
+  "____comment27____" : "____send_money_enter_amount_screen___",
+  "select_payment" : "আপনার পেমেন্ট নির্বাচন করুন",
+  "min_amount_msg" : "সর্বনিম্ন লেনদেনের পরিমাণ ৳ ",
+  "max_amount_msg" : "সর্বোচ্চ লেনদেনের পরিমাণ ৳ ",
+  "transaction_amount" : "লেনদেনের পরিমাণ",
+  "total_amount" : "সর্বমোট পরিমাণ",
+  "sendMONEY" : "সেন্ড_মানি",
+
+
+  "____comment28____" : "____send_money_number_screen___",
+  "enter_valid_wallet_num" : "সঠিক ওয়ালেট নাম্বার লিখুন",
+  "enter_name_or_number" : "নাম বা ওয়ালেট নাম্বার লিখুন",
+
+
+  "____comment29____" : "____custom_confirm_transaction_widget__",
+  "transaction_details": "লেনদেনের বিস্তারিত",
+
+
+  "____comment30____" : "____custom_common_success_widget__",
+  "transaction_successful": "লেনদেন সফল হয়েছে",
+  "back_to_home": "হোমপেজে ফিরুন",
+  "download_statement" : "ডাউনলোড স্টেটমেন্ট",
+
+
+  "____comment31____" : "____merchant_pay_confirm_screen__",
+  "merchant_payment_success_msg" : "মার্চেন্ট পেমেন্ট সফল হয়েছে",
+  "merchant_payment" : "মার্চেন্ট পেমেন্ট",
+  "you_can_pay_and_win" : "আপনি ফার্স্টক্যাশ ব্যবহার করে অর্থ প্রদান করতে পারেন এবং জিততে পারেন",
+
+
+  "____comment32____" : "____merchant_pay_number_screen__",
+  "enter_merchant_wallet_num" : "মার্চেন্ট ওয়ালেট নাম্বার লিখুন",
+  "invalid_account_type" : "রেজিস্টার্ড অ্যাকাউন্ট নয়।",
+  "enter_merchant_number" : "অনুগ্রহ করে মার্চেন্ট নাম্বার লিখুন",
+
+
+  "____comment33____" : "____cash_out_confirm_screen__",
+  "cash_out_success_msg" : "ক্যাশ আউট সফল হয়েছে",
+  "lowest_cash_out_charge_msg" : "শহরে সর্বনিম্ন ক্যাশ আউট চার্জ",
+
+
+  "____comment34____" : "____cash_out_enter_amount_screen__",
+  "cash_out" : "ক্যাশ আউট",
+  "firstCash_balance:" : "ফার্স্টক্যাশ ব্যালেন্স: ",
+
+
+  "____comment35____" : "____cash_out_number_screen__",
+  "enter_agent_wallet_num" : "এজেন্ট ওয়ালেট নাম্বার লিখুন",
+  "enter_agent_num" : "অনুগ্রহ করে এজেন্ট নাম্বার লিখুন",
+
+
+  "____comment36____" : "____cash_out_success_screen__",
+  "cash_out_money" : "ক্যাশ আউট মানি",
+
+
+  "____comment37____" : "____education_fees_confirm_screen___",
+  "education_fees_success_msg" : "এডুকেশন ফি সফল হয়েছে",
+  "education_fees" : "এডুকেশন ফি",
+
+
+  "____comment38____" : "____education_fees_status_screen___",
+  "done" : "সম্পন্ন",
+  "ins_code": "প্রতিষ্ঠানের কোড",
+  "ins_name": "প্রতিষ্ঠানের নাম",
+  "ins_wallet": "প্রতিষ্ঠানের ওয়ালেট",
+  "student_name": "শিক্ষার্থীর নাম",
+  "reg_id": "রেজিস্ট্রেশন আইডি",
+  "total_due": "মোট বকেয়া পরিমাণ",
+  "current_balance": "বর্তমান ব্যালেন্স",
+
+
+  "____comment39____" : "____fee_list_screen___",
+  "student_reg_id" : "শিক্ষার্থী নিবন্ধন আইডি",
+  "_educationFEES" : "এডুকেশন_ফি",
+  "select_amount" : "পরিমাণ নির্বাচন করুন",
+
+
+  "____comment40____" : "____institute_list_screen___",
+  "institution_list" : "প্রতিষ্ঠানের তালিকা",
+
+
+  "____comment41____" : "____registration_info_screen___",
+  "bill_fetch_success_msg" : "বিল আনা সফল হয়েছে",
+  "input_reg_number" : "অনুগ্রহ করে রেজিস্ট্রেশন নাম্বার প্রদান করুন",
+  "enter_reg_id" : "রেজিস্ট্রেশন আইডি লিখুন",
+  "enter_ref_id" : "রেফারেন্স আইডি লিখুন",
+  "_self" : "স্বয়ং",
+  "_other" : "অন্যান্য",
+  "input_mobile_number" : "অনুগ্রহ করে মোবাইল নাম্বার প্রদান করুন",
+
+
+  "____comment42____" : "____custom_dashboard_app_bar_widget___",
+  "check_balance" : "ব্যালেন্স অনুসন্ধান",
+
+
+  "____comment43____" : "____custom_success_dialog_widget___",
+  "successful" : "সফল",
+  "transaction_id" : "লেনদেনের আইডি",
+  "reference" : "রেফারেন্স",
+  "processing" : "প্রক্রিয়া চলছে...",
+
+
+  "____comment44____" : "____additional_info_screen___",
+  "gender" : "লিঙ্গ",
+  "blood_group" : "রক্তের গ্রুপ",
+  "occupation" : "পেশা",
+  "source_of_income" : "আয়ের উৎস",
+  "approx_monthly_income" : "আনুমানিক মাসিক আয়",
+
+
+  "____comment45____" : "____network_interceptor___",
+  "no_internet" : "ইন্টারনেট কানেকশন নেই",
+
+
+  "____comment46____" : "____network_interceptor___",
+  "session_timeout" : "নিষ্ক্রিয়তার কারণে আপনার সেশনের মেয়াদ শেষ হয়ে গেছে। অনুগ্রহ পূর্বক আরো একবার প্রবেশ করুন. ধন্যবাদ!",
+  "authorization_failed" : "আপনার ওয়ালেট অন্য ডিভাইসের সাথে নিবন্ধিত হয়েছে।",
+  "unknown_error" : "নেটওয়ার্ক সমস্যা. অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন।",
+
+
+  "____comment47____" : "____add_money_screen___",
+  "add_money" : "অ্যাড মানি",
+  "add_money_source" : "অর্থের উৎস",
+
+
+  "____comment48____" : "____add_money_card_screen___",
+  "card_source" : "কার্ডের উৎস",
+
+
+  "____comment49____" : "____forceUpdate___",
+  "force_update_title": "নতুন আপডেট আছে",
+  "force_update_message": "একটি নতুন সংস্করণ বর্তমানে আছে। অ্যাপ্লিকেশনটি  আপডেট করুন।",
+  "disagree": "এখনি নয়",
+  "update_now": "ঠিকাছে",
+
+
+  "____comment50____" : "____qr_code_scanner_screen___",
+  "scan_qr" : "স্ক্যান QR",
+  "scan_qr_code" : "QR কোড স্ক্যান করুন",
+  "camera_permission_required" : "ক্যামেরা অনুমতি প্রয়োজন",
+
+
+  "____comment51____" : "____customer_reg_by_agent_screen___",
+  "customer_reg" : "কাস্টমার রেজিস্ট্রেশন",
+  "enter_nid_number" : "nid নাম্বার লিখুন",
+  "eg_dob" : "e.g. বছর/মাস/দিন",
+  "submit" : "জমা দিন",
+  "enter_your_full_name" :  "আপনার পুরো নাম লিখুন",
+  "set_up_account" : "আপনার অ্যাকাউন্ট সেট আপ করুন",
+  "enter_valid_mobile_no" : "সঠিক মোবাইল নাম্বার লিখুন",
+  "input" : "ইনপুট দিন",
+  "enter_valid" : "সঠিক",
+
+  "____comment52____" : "____agent_cash_in____",
+  "cash_in" : "ক্যাশ ইন",
+  "cash_in_money": "ক্যাশ ইন মানি",
+  "enter_wallet_number": "ওয়ালেট নাম্বার লিখুন",
+  "enter_customer_wallet_number": "কাস্টমার ওয়ালেট নাম্বার লিখুন",
+
+
+  "____comment53____" : "____du_info_screen___",
+  "utility_bill" : "ইউটিলিটি বিল",
+
+
+  "____comment54____" : "____du_detail_screen___",
+  "utility_detail" : "ইউটিলিটি ডিটেল",
+  "enter_required_info" : "অনুগ্রহ করে প্রয়োজনীয় তথ্য দিন",
+
+
+  "____comment55____" : "____du_pin_screen___",
+  "utility_payment_successful" : "ইউটিলিটি পেমেন্ট সফল হয়েছে",
+
+
+  "____comment56____" : "____to_up_agent____",
+  "top_up_agent" : "টপ আপ এজেন্ট",
+  "top_up_agent_select" : "এজেন্ট নির্বাচন করুন",
+  "no_agent_found" : "কোনো এজেন্ট পাওয়া যায়নি",
+  "dsr_limit" : "ডি এস আর লিমিট",
+  "top_up_limit" : "টপ আপ লিমিট",
+  "cash_out_limit" : "ক্যাশ আউট লিমিট",
+  "daily_top_up" : "প্রতিদিনের টপ আপ",
+  "daily_cash_out" : "প্রতিদিনের ক্যাশ আউট",
+
+
+  "____comment57____" : "____request_money_screen___",
+  "new_request" : "নতুন আবেদন",
+  "transactions" : "লেনদেন",
+  "your_request" : "আপনার আবেদন",
+  "request_to_you" : "আপনার প্রতি আবেদন",
+  "no_request_found" : "কোনো আবেদন পাওয়া যায়নি",
+  "reject" : "বাতিল",
+  "decline_request_msg" : "আপনি কি নিশ্চিত আপনি আবেদনটি বাতিল করতে চান?",
+  "yes" : "হ্যা",
+  "no" : "না",
+  "approve" : "অনুমোদন",
+  "currently_unavailable" : "বর্তমানে পাওয়া যাচ্ছে না!",
+
+
+  "____comment58____" : "____request_money_pin_screen___",
+  "request_successful" : "আবেদনটি সফল হয়েছে",
+  "request_money" : "রিকুয়েস্ট মানি",
+
+
+  "____comment59____" : "____request_money_enter_amount_screen___",
+  "requested_amount" : "আবেদনকৃত পরিমাণ",
+
+
+  "____comment60____" : "____custom_decline_request_success_widget___",
+  "decline_successful_msg" : "আবেদনটি বাতিল করা হয়েছে",
+
+  "____comment61____" : "____custom_common_error_widget___",
+  "cancel" : "বাতিল করুন",
+
+  "____comment62____" : "____location permission___",
+  "location_permission" : "অবস্থানের অনুমতি",
+  "must_enable_location_service" : "এটি ব্যবহার করার জন্য আপনাকে অবশ্যই অবস্থানের অনুমতি সক্ষম করতে হবে৷"
+
+
+}

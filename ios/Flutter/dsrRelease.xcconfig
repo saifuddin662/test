@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_dsr.dart
+ASSET_PREFIX=dsr
+BUNDLE_NAME=FirstCash - DSR
+BUNDLE_DISPLAY_NAME=FirstCash - DSR

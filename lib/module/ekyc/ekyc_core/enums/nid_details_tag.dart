@@ -1,0 +1,22 @@
+enum NidDetailsTag {
+  presAddress,
+  permAddress,
+  divDropPresent,
+  disDropPresent,
+  thanaDropPresent,
+  divDropPermanent,
+  disDropPermanent,
+  thanaDropPermanent,
+  postOfficePresent,
+  postCodePresent,
+  postOfficePermanent,
+  postCodePermanent,
+  nomName,
+  nomNid,
+  nomDob,
+  nomMob,
+  nomRelation,
+  nomPercentage,
+  fatherName,
+  motherName
+}

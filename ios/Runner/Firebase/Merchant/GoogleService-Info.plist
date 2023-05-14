@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>637113333833-fu3cog90l2g2h7l0a19n14na1ak3ld45.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.637113333833-fu3cog90l2g2h7l0a19n14na1ak3ld45</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD4F4xzS4BZfaB9fwHtAAPPvNw0Nf7vqDU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>637113333833</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fsiblbd.merchant</string>
+	<key>PROJECT_ID</key>
+	<string>firstcash-merchant</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firstcash-merchant.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:637113333833:ios:367632116b424ba4042798</string>
+</dict>
+</plist>

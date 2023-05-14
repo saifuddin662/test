@@ -1,0 +1,69 @@
+Index: .customer.env
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.customer.env b/.customer.env
+--- a/.customer.env	(revision 8e27e0daed54b0d6d65df6067f64c7f1c428c275)
++++ b/.customer.env	(revision c4d074207fe1e8ef333d98478e207f69f92a47d4)
+@@ -1,2 +1,2 @@
+-BASE_URL = "http://103.191.178.118:8080/api_middleware-0.0.1-STAGING/"
++BASE_URL = "https://api.firstcash.fsiblbd.com/api_middleware-0.0.2-RELEASE/"
+ applicationId = "com.fsiblbd.customer"
+Index: lib/module/add_money/add_money_amount_screen.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lib/module/add_money/add_money_amount_screen.dart b/lib/module/add_money/add_money_amount_screen.dart
+--- a/lib/module/add_money/add_money_amount_screen.dart	(revision 8e27e0daed54b0d6d65df6067f64c7f1c428c275)
++++ b/lib/module/add_money/add_money_amount_screen.dart	(revision c4d074207fe1e8ef333d98478e207f69f92a47d4)
+@@ -5,7 +5,6 @@
+ import 'package:first_cash_flutter/module/add_money/api/model/get_transaction_id_response.dart';
+ import 'package:first_cash_flutter/ui/custom_widgets/custom_common_enter_amout_widget.dart';
+ import 'package:first_cash_flutter/ui/custom_widgets/custom_safe_next_button.dart';
+-import 'package:first_cash_flutter/utils/dimens/dimensions.dart';
+ import 'package:flutter/material.dart';
+ import 'package:flutter_easyloading/flutter_easyloading.dart';
+ import 'package:flutter_riverpod/flutter_riverpod.dart';
+@@ -111,7 +110,7 @@
+         multi_card_name: type,
+         currency: SSLCurrencyType.BDT,
+         product_category: "MFS",
+-        sdkType:  SSLCSdkType.TESTBOX /*: SSLCSdkType.LIVE*/,
++        sdkType:  SSLCSdkType.LIVE /*: SSLCSdkType.LIVE*/,
+         store_id: transactionIdResponse.storeId!,
+         store_passwd: transactionIdResponse.storePassword!,
+         total_amount: transactionIdResponse.amount!,
+Index: lib/module/dashboard/home/home_screen.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lib/module/dashboard/home/home_screen.dart b/lib/module/dashboard/home/home_screen.dart
+--- a/lib/module/dashboard/home/home_screen.dart	(revision 8e27e0daed54b0d6d65df6067f64c7f1c428c275)
++++ b/lib/module/dashboard/home/home_screen.dart	(revision c4d074207fe1e8ef333d98478e207f69f92a47d4)
+@@ -121,7 +121,7 @@
+                           return CustomFeatureBlockWidget(
+                             icon: "${featureList.first.featureList?[index].imageUrl}",
+                             text: "${featureList.first.featureList?[index].featureTitle}",
+-                            isActive: featureList.first.featureList?[index].isActive ?? true,
++                            isActive: setActive(index),
+                             onPressed: () {
+                               switch(featureCode) {
+                                 case FeatureDetailsKeys.sendMoney:
+@@ -233,4 +233,13 @@
+           (element) => element.featureCode == FeatureDetailsKeys.addMoney);
+     }
+   }
++
++  setActive(int index) {
++
++    if ( featureList.first.featureList?[index].featureCode == 'ADD_MONEY') {
++      return true;
++    }  else {
++      return featureList.first.featureList?[index].isActive ?? true;
++    }
++  }
+ }
+\ No newline at end of file

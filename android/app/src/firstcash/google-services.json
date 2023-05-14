@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "60422785470",
+    "project_id": "firstcash-agent",
+    "storage_bucket": "firstcash-agent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60422785470:android:cdb06c60d70c72a6b2d1ef",
+        "android_client_info": {
+          "package_name": "com.fsiblbd.dfs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60422785470-ctmbdkn0d45jdoumavga897j7h6i1d7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGLTH_idyLhYRIiF95RvwNUTC483qOVD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60422785470-ctmbdkn0d45jdoumavga897j7h6i1d7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "60422785470-8n421g2o618jciksig2gm08281icmrp3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fsiblbd.dfs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
